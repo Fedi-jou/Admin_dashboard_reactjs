@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const single = () => {
+export const Single = () => {
   return (
     <div>single</div>
   )
