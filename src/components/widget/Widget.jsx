@@ -66,4 +66,4 @@ const Widget = ({type}) => {
   )
 }
 
-export default Widget
+export default Widget 
