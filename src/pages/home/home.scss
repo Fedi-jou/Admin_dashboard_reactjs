@@ -1,12 +1,19 @@
-.home{
+.home {
     display: flex;
-    .homecontainer {
-        background-color: rgb(255,245,238);
-        flex: 6;
-    }
-    .widgets {
+  
+    .homeContainer {
+      flex: 6;
+  
+      .widgets,
+      .charts {
         display: flex;
         padding: 20px;
-        gap :20px;
+        gap: 20px;
+      }
+  
+      .charts {
+        padding: 5px 20px;
+      }
+
     }
 }
