@@ -1,8 +1,18 @@
-# Dashboard admin template build with mui , charts and many cool features like dark mode switch and toggle
+# Dashboard admin template build with :
 
-#### inspired by lamadev
+## mui , charts and many cool features like dark mode .
 
-##package used in this project : 1. mui v5 2. mui data-grid 3. mui icons 4. react-circular-progressbar 5. recharts 6. react-router-dom 7. sass
+#### inspired by lama dev
+
+##package used in this project :
+
+1.  mui v5
+2.  mui data-grid
+3.  mui icons
+4.  react-circular-progressbar
+5.  recharts
+6.  react-router-dom
+7.  sass
 
 # Getting Started with Create React App
 
