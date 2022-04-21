@@ -20,6 +20,7 @@ const Widget = ({type}) => {
                  icon : <PersonOutlinedIcon className="icon" style={{color : "crimson" }}/>
             }
             break ; 
+            // eslint-disable-next-line
             case "order" : {
                 data = {
                     title : "Order",
@@ -28,7 +29,9 @@ const Widget = ({type}) => {
                     icon : <ShoppingCartOutlinedIcon className="icon" style={{color : "crimson" }}/> , 
                 }
             }
+            
             break ; 
+            // eslint-disable-next-line
             case "earning" : {
                 data = {
                     title : "Earning",
@@ -37,7 +40,9 @@ const Widget = ({type}) => {
                     icon : < MonetizationOnOutlinedIcon className="icon" style={{color : "crimson" }}/> , 
                 }
             }
+            
             break ; 
+            // eslint-disable-next-line
             case "balance" : {
                 data = {
                     title : "Balance",
